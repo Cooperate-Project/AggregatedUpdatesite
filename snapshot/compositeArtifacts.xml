@@ -5,8 +5,9 @@
 	<properties size='1'>
 		<property name='p2.timestamp' value='1243822502440'/>
 	</properties>
-	<children size='2'>
+	<children size='3'>
 		<child location='https://mammutbaum36.fzi.de/unzip/maven/latest-SNAPSHOT/cooperate-dev/de.cooperateproject.plantumlpp/de.cooperateproject.plantumlpp.updatesite.aggregated'/>
 		<child location='https://mammutbaum36.fzi.de/unzip/maven/latest-SNAPSHOT/cooperate-dev/plantuml.eclipse/plantuml.eclipse.updatesite'/>
+		<child location='https://mammutbaum36.fzi.de/unzip/maven/latest-SNAPSHOT/cooperate-dev/de.cooperateproject.cdo/de.cooperateproject.cdo.updatesite'/>
 	</children>
 </repository>
