@@ -3,11 +3,12 @@
 <repository name='&quot;Cooperate Snapshot Updatesite&quot;'
     type='org.eclipse.equinox.internal.p2.metadata.repository.CompositeMetadataRepository' version='1.0.0'>
 	<properties size='1'>
-		<property name='p2.timestamp' value='1243822502499'/>
+		<property name='p2.timestamp' value='1477831615000'/>
 	</properties>
-	<children size='3'>
+	<children size='4'>
 		<child location='https://mammutbaum36.fzi.de/unzip/maven/latest-SNAPSHOT/cooperate-dev/de.cooperateproject.plantumlpp/de.cooperateproject.plantumlpp.updatesite.aggregated'/>
 		<child location='https://mammutbaum36.fzi.de/unzip/maven/latest-SNAPSHOT/cooperate-dev/plantuml.eclipse/plantuml.eclipse.updatesite'/>
 		<child location='https://mammutbaum36.fzi.de/unzip/maven/latest-SNAPSHOT/cooperate-dev/de.cooperateproject.cdo/de.cooperateproject.cdo.updatesite'/>
+		<child location='https://mammutbaum36.fzi.de/unzip/maven/latest-SNAPSHOT/cooperate-dev/de.cooperateproject.modeling/de.cooperateproject.modeling.updatesite.aggregated'/>
 	</children>
 </repository>

@@ -5,8 +5,10 @@
 	<properties size='1'>
 		<property name='p2.timestamp' value='1474468903000'/>
 	</properties>
-	<children size='2'>
-		<child location='https://mammutbaum36.fzi.de/unzip/maven/perfect/cooperate/de.cooperateproject.cdo/de.cooperateproject.cdo.updatesite/4.4.2'/>
+	<children size='4'>
+		<child location='https://mammutbaum36.fzi.de/unzip/maven/perfect/cooperate/de.cooperateproject.license/de.cooperateproject.license.updatesite/1.0.0'/>
 		<child location='https://mammutbaum36.fzi.de/unzip/maven/perfect/cooperate/de.cooperateproject.cdo/de.cooperateproject.cdo.updatesite/4.5.1'/>
+		<child location='https://mammutbaum36.fzi.de/unzip/maven/perfect/cooperate/de.cooperateproject.cdoxtext/de.cooperateproject.cdoxtext.updatesite/0.1.0'/>
+		<child location='https://mammutbaum36.fzi.de/unzip/maven/perfect/cooperate/de.cooperateproject.modeling/de.cooperateproject.modeling.updatesite/0.1.1'/>
 	</children>
 </repository>
