@@ -6,8 +6,8 @@
 		<property name='p2.timestamp' value='1477831615000'/>
 	</properties>
 	<children size='3'>
-		<child location='https://mammutbaum36.fzi.de/unzip/maven/latest-SNAPSHOT/cooperate-dev/de.cooperateproject.plantumlpp/de.cooperateproject.plantumlpp.updatesite.aggregated'/>
-		<child location='https://mammutbaum36.fzi.de/unzip/maven/latest-SNAPSHOT/cooperate-dev/plantuml.eclipse/plantuml.eclipse.updatesite'/>
 		<child location='https://dl.bintray.com/cooperate-project/CooperateModelingEnvironment/updatesite/latest/'/>
+		<child location='https://dl.bintray.com/cooperate-project/PlantUMLXtext/updatesite/latest/'/>
+		<child location='https://dl.bintray.com/cooperate-project/PapyrusTextualDiagramProvider/updatesite/latest/'/>
 	</children>
 </repository>

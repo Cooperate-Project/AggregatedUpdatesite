@@ -5,8 +5,7 @@
 	<properties size='1'>
 		<property name='p2.timestamp' value='1474468903000'/>
 	</properties>
-	<children size='2'>
-		<child location='https://mammutbaum36.fzi.de/unzip/maven/perfect/cooperate/de.cooperateproject.cdo/de.cooperateproject.cdo.updatesite/4.4.2'/>
-		<child location='https://mammutbaum36.fzi.de/unzip/maven/perfect/cooperate/de.cooperateproject.cdo/de.cooperateproject.cdo.updatesite/4.5.1'/>
+	<children size='1'>
+		<child location='https://dl.bintray.com/cooperate-project/CooperateModelingEnvironment/updatesite/0.1.2/'/>
 	</children>
 </repository>
