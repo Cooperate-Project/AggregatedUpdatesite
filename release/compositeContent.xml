@@ -7,6 +7,5 @@
 	</properties>
 	<children size='1'>
 		<child location='https://dl.bintray.com/cooperate-project/CooperateModelingEnvironment/updatesite/0.1.7/'/>
-		<child location='https://dl.bintray.com/cooperate-project/CooperateModelingEnvironment/updatesite/0.1.8/'/>
 	</children>
 </repository>
