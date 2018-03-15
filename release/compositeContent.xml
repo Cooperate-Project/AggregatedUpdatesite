@@ -3,7 +3,7 @@
 <repository name='&quot;Cooperate Updatesite&quot;'
     type='org.eclipse.equinox.internal.p2.metadata.repository.CompositeMetadataRepository' version='1.0.0'>
 	<properties size='1'>
-		<property name='p2.timestamp' value='1474468903005'/>
+		<property name='p2.timestamp' value='1474468903006'/>
 	</properties>
 	<children size='8'>
 		<child location='https://dl.bintray.com/cooperate-project/CooperateModelingEnvironment/updatesite/0.1.7/'/>
@@ -14,5 +14,6 @@
 		<child location='https://dl.bintray.com/cooperate-project/CooperateModelingEnvironment/updatesite/0.5.0/'/>
 		<child location='https://dl.bintray.com/cooperate-project/CooperateModelingEnvironment/updatesite/0.6.0/'/>
 		<child location='https://dl.bintray.com/cooperate-project/CooperateModelingEnvironment/updatesite/0.7.0/'/>
+		<child location='https://dl.bintray.com/cooperate-project/CooperateModelingEnvironment/updatesite/0.8.0/'/>
 	</children>
 </repository>
