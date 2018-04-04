@@ -3,7 +3,7 @@
 <repository name='&quot;Cooperate Updatesite&quot;'
     type='org.eclipse.equinox.internal.p2.artifact.repository.CompositeArtifactRepository' version='1.0.0'>
 	<properties size='1'>
-		<property name='p2.timestamp' value='1474468903007'/>
+		<property name='p2.timestamp' value='1474468903008'/>
 	</properties>
 	<children size='9'>
 		<child location='https://dl.bintray.com/cooperate-project/CooperateModelingEnvironment/updatesite/0.1.7/'/>
@@ -15,6 +15,6 @@
 		<child location='https://dl.bintray.com/cooperate-project/CooperateModelingEnvironment/updatesite/0.6.0/'/>
 		<child location='https://dl.bintray.com/cooperate-project/CooperateModelingEnvironment/updatesite/0.7.0/'/>
 		<child location='https://dl.bintray.com/cooperate-project/CooperateModelingEnvironment/updatesite/0.8.0/'/>
-		<child location='http://cooperate-modeling-environment.sourceforge.net/updatesite/0.8.1/'/>
+		<child location='https://dl.bintray.com/cooperate-project/CooperateModelingEnvironment/updatesite/0.8.1/'/>
 	</children>
 </repository>
